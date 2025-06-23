@@ -1,4 +1,4 @@
-# Software DevAI Chatbot
+# Software Development AI Chatbot
 
 A simple browser-based chat interface built with **Node.js**, **Express**, and the **OpenAI API**.
 
